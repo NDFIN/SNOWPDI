@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>MobileApp Classic Mobile Layout</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-01 01:03:29</sys_created_on>
+        <sys_id>38056ed61b736010663e404cbc4bcba6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MobileApp Classic Mobile Layout</sys_name>
+        <sys_package display_value="MobileApp" source="x_553557_mobileapp">55942ad21b736010663e404cbc4bcb7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileApp">55942ad21b736010663e404cbc4bcb7f</sys_scope>
+        <sys_update_name>sys_sg_data_item_38056ed61b736010663e404cbc4bcba6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-01 01:03:29</sys_updated_on>
+        <table>sc_mobile_layout</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=38056ed61b736010663e404cbc4bcba6"/>
+</record_update>

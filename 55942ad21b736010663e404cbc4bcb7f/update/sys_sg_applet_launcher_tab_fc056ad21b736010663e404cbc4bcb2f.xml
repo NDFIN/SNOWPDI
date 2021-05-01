@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="MobileApp">b0056ad21b736010663e404cbc4bcb2e</applet_launcher>
+        <icon display_value="Home MobileApp">30056ad21b736010663e404cbc4bcb30</icon>
+        <label>MobileApp</label>
+        <roles>admin,x_553557_mobileapp.users,x_553557_mobileapp.itil user,x_553557_mobileapp.mobile admin,x_553557_mobileapp.mobile manager,x_553557_mobileapp.mobile portal manager</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-01 01:03:29</sys_created_on>
+        <sys_id>fc056ad21b736010663e404cbc4bcb2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MobileApp</sys_name>
+        <sys_package display_value="MobileApp" source="x_553557_mobileapp">55942ad21b736010663e404cbc4bcb7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileApp">55942ad21b736010663e404cbc4bcb7f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_fc056ad21b736010663e404cbc4bcb2f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-01 01:03:29</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

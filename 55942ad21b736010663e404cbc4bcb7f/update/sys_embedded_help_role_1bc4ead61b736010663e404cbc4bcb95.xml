@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_553557_mobileapp.mobile portal manager" name="x_553557_mobileapp.mobile portal manager">17c4ead61b736010663e404cbc4bcb93</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-01 01:02:34</sys_created_on>
+        <sys_id>1bc4ead61b736010663e404cbc4bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>17c4ead61b736010663e404cbc4bcb93</sys_name>
+        <sys_package display_value="MobileApp" source="x_553557_mobileapp">55942ad21b736010663e404cbc4bcb7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileApp">55942ad21b736010663e404cbc4bcb7f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1bc4ead61b736010663e404cbc4bcb95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-01 01:02:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

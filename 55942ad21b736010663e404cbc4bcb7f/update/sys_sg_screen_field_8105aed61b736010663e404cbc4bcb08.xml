@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>name</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>40</order>
+        <record_id_field/>
+        <screen display_value="Details">85056ed61b736010663e404cbc4bcbe3</screen>
+        <screen_data_item_table>sg_studio_layout_pattern</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-01 01:03:31</sys_created_on>
+        <sys_id>8105aed61b736010663e404cbc4bcb08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>name</sys_name>
+        <sys_package display_value="MobileApp" source="x_553557_mobileapp">55942ad21b736010663e404cbc4bcb7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileApp">55942ad21b736010663e404cbc4bcb7f</sys_scope>
+        <sys_update_name>sys_sg_screen_field_8105aed61b736010663e404cbc4bcb08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-01 01:03:31</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=8105aed61b736010663e404cbc4bcb08"/>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (Mobile Studio Layout Pattern)</name>
+        <query_condition table="sg_studio_layout_pattern">sys_idSTARTSWITH{{Mobile Studio Layout Pattern sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Mobile Studio Layout Pattern sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-01 01:03:31</sys_created_on>
+        <sys_id>0d05aed61b736010663e404cbc4bcb22</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (Mobile Studio Layout Pattern)</sys_name>
+        <sys_package display_value="MobileApp" source="x_553557_mobileapp">55942ad21b736010663e404cbc4bcb7f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileApp">55942ad21b736010663e404cbc4bcb7f</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_0d05aed61b736010663e404cbc4bcb22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-01 01:03:31</sys_updated_on>
+        <table>sg_studio_layout_pattern</table>
+        <template>default={{Mobile Studio Layout Pattern default}}^element_position={{Mobile Studio Layout Pattern element_position}}^json_template={{Mobile Studio Layout Pattern json_template}}^name={{Mobile Studio Layout Pattern name}}^pattern_image={{Mobile Studio Layout Pattern pattern_image}}^preview_image={{Mobile Studio Layout Pattern preview_image}}^sn_sg_studio_body_detail_image={{Mobile Studio Layout Pattern sn_sg_studio_body_detail_image}}^sn_sg_studio_header_detail_image={{Mobile Studio Layout Pattern sn_sg_studio_header_detail_image}}^styled_field={{Mobile Studio Layout Pattern styled_field}}^type={{Mobile Studio Layout Pattern type}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=0d05aed61b736010663e404cbc4bcb22"/>
+</record_update>
